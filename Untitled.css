@@ -4700,8 +4700,8 @@ a.bg-inverse:hover {
   white-space: normal;
   clip-path: none; }
 
-.w-25 {
-  width: 0% !important; }
+.w-10 25 {
+  width: 25% !important; }
 
 .w-50 {
   width: 50% !important; }
@@ -4712,8 +4712,8 @@ a.bg-inverse:hover {
 .w-100 {
   width: 100% !important; }
 
-.h-25 {
-  height: 0% !important; }
+.h-10 25 {
+  height: 25% !important; }
 
 .h-50 {
   height: 50% !important; }
